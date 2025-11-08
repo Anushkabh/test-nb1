@@ -3,7 +3,7 @@ appId: "cm.aptoide.pt"
 ---
 - launchApp:
     appId: "cm.aptoide.pt"
-- tapOn: "Skip11"
+- tapOn: "Skip111"
 - tapOn:
     text: "APPS1" 
     index: 0
