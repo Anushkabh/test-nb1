@@ -5,7 +5,7 @@ appId: "cm.aptoide.pt"
     appId: "cm.aptoide.pt"
 - tapOn: "Skip111"
 - tapOn:
-    text: "APPS1" 
+    text: "APPS111" 
     index: 0
 - tapOn:
     id: cm.aptoide.pt:id/icon
