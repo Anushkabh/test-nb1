@@ -13,4 +13,4 @@ appId: "cm.aptoide.pt"
 - tapOn: Search
 - inputText: NativeBridge3
 - tapOn: Collapse
-- tapOn: Home
+- tapOn: Home1
