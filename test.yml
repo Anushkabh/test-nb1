@@ -10,7 +10,7 @@ appId: "cm.aptoide.pt"
 - tapOn:
     id: cm.aptoide.pt:id/icon
     index: 5
-- tapOn: Search
+- tapOn: Search1
 - inputText: NativeBridge3
 - tapOn: Collapse
 - tapOn: Home1
