@@ -5,12 +5,12 @@ appId: "cm.aptoide.pt"
     appId: "cm.aptoide.pt"
 - tapOn: "Skip"
 - tapOn:
-    text: "APPS111" 
+    text: "APPS1133331" 
     index: 0
 - tapOn:
     id: cm.aptoide.pt:id/icon
     index: 5
 - tapOn: Search
-- inputText: NativeBridge
+- inputText: NativeBridge3
 - tapOn: Collapse
 - tapOn: Home
